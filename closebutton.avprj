@@ -1,7 +1,7 @@
 ### AutoVala Project ###
 autovala_version: 24
 project_name: closebutton
-*vala_version: 0.34
+*vala_version: 0.32
 
 if ATHOME
 custom: data/gedit_closebutton.plugin share/gedit/plugins/closebutton
