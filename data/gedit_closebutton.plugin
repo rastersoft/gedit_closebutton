@@ -1,0 +1,6 @@
+[Plugin]
+Module=gedit_closebutton.so
+IAge=3
+Name=Close button Plugin
+Description=Shows the close button when there is a left panel in Gedit
+Authors=Sergio Costas <raster@rastersoft.com>
