@@ -11,8 +11,12 @@ BuildRequires: atk-devel
 BuildRequires: cairo-devel
 BuildRequires: gtk3-devel
 BuildRequires: gdk-pixbuf2-devel
+BuildRequires: gedit-devel
 BuildRequires: libgee-devel
 BuildRequires: glib2-devel
+BuildRequires: gobject-introspection-devel
+BuildRequires: gtksourceview3-devel
+BuildRequires: libpeas-devel
 BuildRequires: pango-devel
 BuildRequires: libX11-devel
 BuildRequires: cmake
@@ -28,6 +32,9 @@ Requires: gtk3
 Requires: pango
 Requires: gdk-pixbuf2
 Requires: cairo-gobject
+Requires: gtksourceview3
+Requires: libpeas
+Requires: gobject-introspection
 Requires: libgee
 Requires: libX11
 
