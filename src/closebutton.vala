@@ -4,6 +4,8 @@ using Peas;
 using Gtk;
 using Gee;
 
+// project version: 1.0.0
+
 namespace gedit_closebutton {
 
 	public class Geditclosebutton : Gedit.WindowActivatable, Peas.ExtensionBase {

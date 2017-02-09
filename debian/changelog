@@ -1,6 +1,6 @@
-closebutton (1.0.0-Debian1) Sid; urgency=low
+closebutton (1.0.0-Debian1) sid; urgency=low
 
-  * Changes made
+  * First public version
 
- -- Sergio Costas <rastersoft@gmail.com>  Thu, 09 Feb 2017 00:18:42 +0100
+ -- Sergio Costas Rodriguez <raster@rastersoft.com>  Thu, 09 Feb 2017 23:55:00 +0200
 
