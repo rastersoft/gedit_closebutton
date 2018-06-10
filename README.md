@@ -52,5 +52,6 @@ https://bugzilla.gnome.org/attachment.cgi?id=327906&action=diff
 # Contacting the author #
 
 Sergio Costas Rodriguez (raster software vigo)  
-http://www.rastersoft.com  
 rastersoft@gmail.com  
+http://www.rastersoft.com  
+https://gitlab.com/rastersoft/gedit_closebutton
